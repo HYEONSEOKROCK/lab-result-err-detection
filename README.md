@@ -1,4 +1,6 @@
-# Machine learning-based sample misidentification error detection in clinical laboratory tests
+# lab-result-err-detection
+
+Machine learning-based sample misidentification error detection in clinical laboratory tests
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12821626.svg)](https://doi.org/10.5281/zenodo.12821626)
 
